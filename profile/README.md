@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Our goal is:
+# Research & financial freedom, retire Early.
 <!--
 
 **Here are some ideas to get you started:**
